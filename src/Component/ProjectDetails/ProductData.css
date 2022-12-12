@@ -1,0 +1,20 @@
+
+.cardDetails{
+    
+    margin: auto;
+    border: 7px solid #f3f6f689;
+    border-radius: 5px;
+    box-shadow: 2px 4px 20px 2px #f8f8f9;
+    cursor: n-resize;
+}
+.cardDetails img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    height: 200px;
+    transition: 8s all ease;
+  }
+
+  .cardDetails img:hover {
+    object-position: bottom;
+  }

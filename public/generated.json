@@ -1,0 +1,113 @@
+[
+  {
+    "website_id": 1,
+    "website_name": "BD Mobile Marketing",
+    "image1": "https://i.ibb.co/47ZLRmF/screencapture-assiament-12-web-app-2022-12-11-13-59-56.png",
+    "website": "https://assiament-12.web.app/",
+    "githubClient": "https://github.com/LiptonBarua/resale-client-side",
+    "githubServer": "https://github.com/LiptonBarua/resele-server-side",
+    "product": [
+      {
+        "website_id": 1,
+        "website_name": "Home Page",
+        "image": "https://i.ibb.co/47ZLRmF/screencapture-assiament-12-web-app-2022-12-11-13-59-56.png",
+        "website": "https://assiament-12.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/resale-client-side",
+        "githubServer": "https://github.com/LiptonBarua/resele-server-side",
+        "question": "This is a resale website. Where a buyer can purchase the second hand product of his choice and the buyer can give feedback on that product. At the beginning of this website is the homepage, in which we can see a category section in which a buyer can purchase the second hand mobile according to his choice.Below the category section there is another section which is the advice section, where a seller can advertise his product."
+      },
+      {
+        "website_id": 1,
+        "website_name": "Brand Product Page",
+        "image": "https://i.ibb.co/1nFvr9C/screencapture-assiament-12-web-app-product-Xiaomi-2022-12-12-00-29-57.png",
+        "website": "https://assiament-12.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/resale-client-side",
+        "githubServer": "https://github.com/LiptonBarua/resele-server-side",
+        "question": "The second part of this website that we see is that a buyer can click on the brand that he likes and can buy any one or more products of that brand and book them and make the payment. At the time of booking, a buyer must book the product through his email id username and phone number etc."
+      },
+      {
+        "website_id": 1,
+        "website_name": "My Order Page",
+        "image": "https://i.ibb.co/JCptFJR/screencapture-assiament-12-web-app-dashboard-2022-12-12-00-35-45.png",
+        "website": "https://assiament-12.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/resale-client-side",
+        "githubServer": "https://github.com/LiptonBarua/resele-server-side",
+        "question": "In the next step of the website, the page that we can see now is a payment page or a page where after a customer takes the product according to his choice, the product and its information are stored in this booking page. From where a user can make payment after booking .A user can view the purchased products and make payment by registering or logging in."
+      }
+    ]
+  },
+  {
+    "website_id": 2,
+    "website_name": "Doctor Portal",
+    "image1": "https://i.ibb.co/zQ33C5q/screencapture-doctor-portal-70f45-web-app-2022-12-11-14-00-47.png",
+    "website": "https://doctor-portal-70f45.web.app/",
+    "githubClient": "https://github.com/LiptonBarua/doctor-project-client",
+    "githubServer": "https://github.com/LiptonBarua/doctor-project-server",
+    "product": [
+      {
+        "website_id": 2,
+        "website_name": "Home Page",
+        "image": "https://i.ibb.co/zQ33C5q/screencapture-doctor-portal-70f45-web-app-2022-12-11-14-00-47.png",
+        "website": "https://doctor-portal-70f45.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/doctor-project-client",
+        "githubServer": "https://github.com/LiptonBarua/doctor-project-server",
+        "question": "This website is a medical related website through which we can book any date according to specific treatment and here an admin can add any doctor he wants.On this website one can see admit all user doctor and he can delete any user or any doctor if he wants"
+      },
+      {
+        "website_id": 2,
+        "website_name": "Appointment Page",
+        "image": "https://i.ibb.co/SyZfvXR/screencapture-doctor-portal-70f45-web-app-appointment-2022-12-12-00-43-30.png",
+        "website": "https://doctor-portal-70f45.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/doctor-project-client",
+        "githubServer": "https://github.com/LiptonBarua/doctor-project-server",
+        "question": "The second feature of this website is the appointment page where a user can select a specific treatment and book on a specific date and if another user registers on the website and wants to make the same booking, they cannot book on the same date. .Next Unizer can book a treatment elsewhere in front of you. The next user can book a treatment on a different date on multiple dates."
+      },
+      {
+        "website_id": 2,
+        "website_name": "Booking Page",
+        "image": "https://i.ibb.co/dpppbP3/screencapture-doctor-portal-70f45-web-app-dashboard-2022-12-12-00-44-28.png",
+        "website": "https://doctor-portal-70f45.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/doctor-project-client",
+        "githubServer": "https://github.com/LiptonBarua/doctor-project-server",
+        "question": "The next page of the website is a booking page where after a user takes a treatment, his information is stored in the booking page, a user can pay according to his treatment. An Admit can add all types of user doctors or doctors"
+      }
+    ]
+  },
+  {
+    "website_id": 3,
+    "website_name": "Online Shop",
+    "image1": "https://i.ibb.co/M2RVJ1T/screencapture-assianment-project-11-web-app-2022-12-11-14-01-31.png",
+    "website": "https://assianment-project-11.web.app/",
+    "githubClient": "https://github.com/LiptonBarua/service-client-side",
+    "githubServer": "https://github.com/LiptonBarua/service-server-side-review",
+    "product": [
+      {
+        "website_id": 3,
+        "website_name": "Home Page",
+        "image": "https://i.ibb.co/M2RVJ1T/screencapture-assianment-project-11-web-app-2022-12-11-14-01-31.png",
+        "website": "https://assianment-project-11.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/service-client-side",
+        "githubServer": "https://github.com/LiptonBarua/service-server-side-review",
+        "question": "Online Shop Online buyers order food from sellers. If you want to talk about the full part of this website, here if a user wants to sell anything related to food through this website and any buyer can go to this website and order the food of his choice online sitting anywhere. And the sellers take the location of the buyer and send the food to the house."
+      },
+      {
+        "website_id": 3,
+        "website_name": "Add Product",
+        "image": "https://i.ibb.co/k095tL2/screencapture-assianment-project-11-web-app-add-Product-2022-12-12-01-01-47.png",
+        "website": "https://assianment-project-11.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/service-client-side",
+        "githubServer": "https://github.com/LiptonBarua/service-server-side-review",
+        "question": "The next section on this website is End Products where a seller can sell the food he needs. The seller can specify the price of the food if he wants."
+      },
+      {
+        "website_id": 3,
+        "website_name": "Review Page",
+        "image": "https://i.ibb.co/r5D1k29/screencapture-assianment-project-11-web-app-review-2022-12-12-01-02-34.png",
+        "website": "https://assianment-project-11.web.app/",
+        "githubClient": "https://github.com/LiptonBarua/service-client-side",
+        "githubServer": "https://github.com/LiptonBarua/service-server-side-review",
+        "question": "Another part of this website is My Review Page where a customer can add a review after purchasing the products."
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+
+.card-compact {
+    /* width: 400px; */
+    margin: auto;
+    border: 7px solid #f3f6f689;
+    border-radius: 5px;
+    box-shadow: 2px 4px 30px 2px #f8f8f9;
+    cursor: n-resize;
+}
+.card-compact img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    height: 250px;
+    transition: 8s all ease;
+  }
+
+  .card-compact img:hover {
+    object-position: bottom;
+  }
